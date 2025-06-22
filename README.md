@@ -31,7 +31,7 @@
 ```
 ## 🌐 Демонстрация
 
---> [https://yerassy1106.github.io/profile/1](https://yerassy1106.github.io/socialmedia/)
+--> https://yerassy1106.github.io/profile/1](https://yerassy1106.github.io/socialmedia/)](https://yerassy1106.github.io/socialmedia/
 
 ----
 ## 👨‍💻 Автор
